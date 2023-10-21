@@ -1,0 +1,6 @@
+{   
+    "EPOCHS": 5,
+    "BATCH_SIZE": 64,
+    "MAX_SEQ_LEN": 115,
+    "PATIENCE" : 5
+}
